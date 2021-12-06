@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void setContentView(View view) {
         super.setContentView(view);
-        
+
     }
 }
